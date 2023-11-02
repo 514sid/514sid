@@ -2,7 +2,7 @@
 * [514sid/num](https://github.com/514sid/num) — PHP package
 * [514sid/jsnum](https://github.com/514sid/jsnum) — TypeScript package
 * [514sid/chat](https://github.com/514sid/chat) — Laravel + React project [wip]
-* 
+  
 ### Projects I have contributed to:
 * [laravel/laravel.com](https://github.com/laravel/laravel.com) — PHP, Laravel
 * [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean) — Vue
