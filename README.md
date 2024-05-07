@@ -1,5 +1,5 @@
 ### My projects:
-* [514sid/digital-signage-schedule](https://github.com/514sid/digital-signage-schedule) — React, TypeScript — [Demo](https://signage.pages.dev/)
+* [514sid/digital-signage-schedule](https://github.com/514sid/digital-signage-schedule) — React, TypeScript — [Demo](https://signage.pages.dev/), [Article](https://514sid.hashnode.dev/user-friendly-content-scheduling-in-digital-signage)
 * [514sid/num](https://github.com/514sid/num) — PHP package
 * [514sid/jsnum](https://github.com/514sid/jsnum) — TypeScript package
 * [514sid/chat](https://github.com/514sid/chat) — Laravel + React project [wip]
