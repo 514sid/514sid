@@ -16,4 +16,5 @@ Repo: [514sid/digital-signage-list](https://github.com/514sid/digital-signage-li
 
 # Contacts
 
+- **Email:** `iam@514sid.com`
 - **Discord:** `514sid`
