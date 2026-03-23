@@ -1,4 +1,4 @@
-## About Me
+## About me
 I am a Product Manager at [Screenly](https://www.screenly.io/), working on building reliable, secure, and enterprise-ready digital signage software.
 
 Alongside my work at Screenly, I am building [Screenlite](https://github.com/screenlite), an open-source digital signage ecosystem that includes a CMS, player applications, and remote device management.
