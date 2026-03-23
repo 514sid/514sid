@@ -8,3 +8,4 @@ I’m deeply involved in the digital signage industry: a moderator of [r/digital
 ## Contact
 - **Email:** `iam@514sid.com`
 - **Discord:** `514sid`
+- **LinkedIn:** https://www.linkedin.com/in/514sid/
